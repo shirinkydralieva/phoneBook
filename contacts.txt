@@ -1,0 +1,14 @@
+shirin
+kydralieva
+0500100200
+shirin@example.com
+
+daniil
+kovalenko
+0700818112
+daniil@example.com
+
+aizhan
+baigazakova
+0455112331
+aizhan_b@example.com
